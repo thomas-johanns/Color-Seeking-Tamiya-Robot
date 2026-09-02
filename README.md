@@ -1,5 +1,5 @@
 # Tamiya Autonomous Color Seeking Robot
-
+![Tamiya Robot](images/Tamy_Side.jpeg)
 ## Overview
 
 A semi-autonomous robot built using a Tamiya chassis and an AVR128DB48 microcontroller. The robot navigates to four colored targets using an onboard compass and RGB color sensor, then uses a front mounted arm mechanism to pick up and carry objects.
