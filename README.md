@@ -1,4 +1,4 @@
-# Tamiya Autonomous Color-Seeking Robot
+# Tamiya Autonomous Color Seeking Robot
 
 ## Overview
 
